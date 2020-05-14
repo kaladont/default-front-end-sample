@@ -7,44 +7,42 @@
 
 За да може да се има целосен преглед особено на платформата Github до каде е постапката на компактибилноста за сите екрани потребно е да се направи квадратчиња за штиклирање за секоја резолуција кои ќе изгледаат вака:
 
-```
-	[]4k
-	[]QHD
-	[]1080p
-	[]WSXGA+
-	[]Laptop Thinkpad t420s res
-	[]Lost res
-	[]HDpi Laptop
-	[]32inch tv/Laptop
-	[]720p
-	[]XGA+
-	[]WSVGA
-	[]iPad Pro
-	[]SVGA
-	[]iPad
-	[]Lost res
-	[]480p
-	[]Small tablet
-	[]Mobile Landscape 1
-	[]Mobile Landscape 2
-	[]Iphone X
-	[]Nexsus 5X
-	[]LG Optimus
-	[]Iphone 6
-	[]Mobile Default/Most common
-	[]Iphone 5
-	[]Lg G Watch
-	[]Nokia 8110
-```
+
+[]4k
+[]QHD
+[]1080p
+[]WSXGA+
+[]Laptop Thinkpad t420s res
+[]Lost res
+[]HDpi Laptop
+[]32inch tv/Laptop
+[]720p
+[]XGA+
+[]WSVGA
+[]iPad Pro
+[]SVGA
+[]iPad
+[]Lost res
+[]480p
+[]Small tablet
+[]Mobile Landscape 1
+[]Mobile Landscape 2
+[]Iphone X
+[]Nexsus 5X
+[]LG Optimus
+[]Iphone 6
+[]Mobile Default/Most common
+[]Iphone 5
+[]Lg G Watch
+[]]Nokia 8110
+
 Номенклатурата може да се промени, јас ја позајмив од попознатите прелистувачи на веб страни кои ги имаа резолуциите од нивните модули за респонзивност и самата номенклатура може да подноси промени. Во однос на html не би додавал многу голема документација бидејќи повеќето работи се специфичности.
 Во однос на документацијата би ги додал само овие параметри:
 
-```
-	[]UTF-8 
-	[]икона за прелистувач/favicon
-	[]Пребарувачко подобрување на резултати (SEO)
+[]UTF-8 
+[]икона за прелистувач/favicon
+[]Пребарувачко подобрување на резултати (SEO)
 
-```
 ## Легенда
 `index.html` претставува урнекот за HTML датотеката
 `index.css` претставува урнекот за CSS датотеката 
