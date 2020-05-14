@@ -1,0 +1,59 @@
+/* Custom fonts */
+@font-face{
+	font-family: ;
+	src: url(''), url('') format('');
+}
+@media screen and (max-width: 3840px){ /* 4K */
+}
+@media screen and (max-width: 2560px){ /* QHD */
+}
+@media screen and (max-width: 1920px){ /* 1080p */
+}
+@media screen and (max-width: 1680px){ /* WSXGA+ */
+}
+@media screen and (max-width: 1600px){ /* Lenovo T420s */
+}
+@media screen and (max-width: 1536px){ /* Kocez ne go biva */
+}
+@media screen and (max-width: 1440px){ /* HDpi Laptops */
+}
+@media screen and (max-width: 1366px){ /* 32inch TV */
+}
+@media screen and (max-width: 1280px){ /* 720p */
+}
+@media screen and (max-width: 1152px){ /* XGA+ */
+}
+@media screen and (max-width: 1024px){ /* WSVGA */
+}
+@media screen and (max-width: 834px){ /* iPad Pro 10inch */ 
+}
+@media screen and (max-width: 800px){ /* SVGA */
+}
+@media screen and (max-width: 768px){ /* iPad */
+}
+@media screen and (max-width: 720px){ /* Lost */
+}
+@media screen and (max-width: 640px){ /* 480p */
+}
+@media screen and (max-width: 600px){ /* Small Tablet */
+}
+@media screen and (max-width: 500px){ /* Mobile Landscape */
+}
+@media screen and (max-width: 480px){ /* Mobile Landscape */
+}
+@media screen and (max-width: 414px){ /* IPhone X */
+}
+@media screen and (max-width: 412px){ /* Nexus 5X */
+}
+@media screen and (max-width: 384px){ /* LG Optimus L70 */
+}
+@media screen and (max-width: 375px){ /* IPhone 6 */
+}
+@media screen and (max-width: 360px){ /* Mobile Default */
+}
+@media screen and (max-width: 320px){ /* IPhone 5 */
+}
+@media screen and (max-width: 280px){ /* LG G Watch W100 */
+}
+@media screen and (max-width: 240px){ /* Nokia 8110 4G */
+}
