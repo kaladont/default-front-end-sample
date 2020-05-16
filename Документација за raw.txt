@@ -1,0 +1,39 @@
+Документација за raw
+
+## Компактибилност
+
+Во однос на стандардизирање и компактибилноста на овој преден дизајн на веб страна.
+
+### HTML
+- [X] UTF-8 
+- [ ] Икона за прелистувач/favicon
+- [ ] Пребарувачко подобрување на резултати (SEO)
+
+### CSS
+- [ ] 4k
+- [ ] QHD
+- [ ] 1080p
+- [ ] WSXGA+
+- [ ] Laptop Thinkpad t420s res
+- [ ] Lost res
+- [ ] HDpi Laptop
+- [ ] 32inch tv/Laptop
+- [ ] 720p
+- [ ] XGA+
+- [ ] WSVGA
+- [ ] iPad Pro
+- [ ] SVGA
+- [ ] iPad
+- [ ] Lost res
+- [ ] 480p
+- [ ] Small tablet
+- [ ] Mobile Landscape 1
+- [ ] Mobile Landscape 2
+- [ ] Iphone X
+- [ ] Nexsus 5X
+- [ ] LG Optimus
+- [ ] Iphone 6
+- [ ] Mobile Default/Most common
+- [ ] Iphone 5
+- [ ] Lg G Watch
+- [ ] Nokia 8110
